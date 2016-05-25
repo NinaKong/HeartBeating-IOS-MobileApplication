@@ -9,4 +9,5 @@ HeartBeating is the mobile app to provide all the fun places and restaurants nea
 - Look up addresses, phone numbers, and open hours
 - Find the place to eat, relax, and play
 
-#Download Link
+#Download Method
+This is a TestFlight Mobile Version. Feel free send email to: xueninakong@gmail.com to ask permission.
